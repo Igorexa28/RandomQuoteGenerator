@@ -13,12 +13,12 @@ function fillBlocks(contentBlock, authorBlock, data) {
     let quote = data[randomInt].quote,
         author = data[randomInt].author;
 
-    contentBlock.innerText = quote;
+    contentBlock.innerText = `"${quote}"`;
     authorBlock.innerText = author;
 }
 
 const arrayOfQuotes = [{
-        quote: `The greatest glory in living lies not in never falling, but in rising every time we fall`,
+        quote: `The greatest glory in living lies not in never falling, but in rising every time we fall.`,
         author: `Nelson Mandela`
     },
     {
