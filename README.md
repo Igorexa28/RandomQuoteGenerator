@@ -1,7 +1,3 @@
 # RandomQuoteGenerator
 
-<<<<<<< HEAD
-This is a simple generator of quotes of famous people.
-=======
-This is a simple generator of quotes of famous people. 
->>>>>>> f799ccb45b0cc0bc959ca716c9d1804ce7deeef8
+This is a random quote generator, which you can use daily. It can help you in a difficult time, when you have a lot of problems. Or when you want to get a food for thought. This is for you to decide how to use it. When you open this web application, you will see a button where written 'Random'. CLick it and get the quote of the day!
